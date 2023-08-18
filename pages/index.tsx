@@ -40,8 +40,8 @@ export default function Home() {
           </div>
           <div>
             <p className="font-bold text-lg max-w-sm text-center">
-              ColorsOnChain by LUV NFT is an infinite collection of colors that
-              are generated and stored on-chain that represent diversity.
+              ColorsOnChain by LUV NFT is an infinite collection of colors that 
+              are generated and stored on-chain, symbolizing unity. #COC
             </p>
           </div>
 
